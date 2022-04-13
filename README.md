@@ -9,7 +9,7 @@
 ```sh
 http://localhost/ci-restserver-master/api/kendaraan
 ```   
-[![Result Name Screen Shot][result1-screenshot]]
+![Result Name Screen Shot][result1-screenshot]
 
 3.1. 
 
@@ -17,7 +17,7 @@ http://localhost/ci-restserver-master/api/kendaraan
 http://localhost/ci-restserver-master/api/kendaraan?jenis_kendaraan=motor&merk_kendaraan=yamaha
 ```
 
-[![Result Name Screen Shot][result2-screenshot]]
+![Result Name Screen Shot][result2-screenshot]
 
 3.2. 
 
@@ -25,7 +25,7 @@ http://localhost/ci-restserver-master/api/kendaraan?jenis_kendaraan=motor&merk_k
 http://localhost/ci-restserver-master/api/kendaraan?jenis_kendaraan=motor&merk_kendaraan=yamaha
 ```
 
-[![Result Name Screen Shot][result3-screenshot]]
+![Result Name Screen Shot][result3-screenshot]
 
 
 [result1-screenshot]: images/screencapture-localhost-ci-restserver-master-api-kendaraan-2022-04-13-10_00_46.png
