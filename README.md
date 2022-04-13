@@ -22,7 +22,7 @@ http://localhost/ci-restserver-master/api/kendaraan?jenis_kendaraan=motor&merk_k
 3.2. 
 
 ```sh
-http://localhost/ci-restserver-master/api/kendaraan?jenis_kendaraan=motor&merk_kendaraan=yamaha
+http://localhost/ci-restserver-master/api/kendaraan?jenis_kendaraan=mobil
 ```
 
 ![Result Name Screen Shot][result3-screenshot]
